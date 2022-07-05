@@ -99,9 +99,9 @@ st.subheader(model_value)
 st.markdown("***")
 st.subheader('Exploratory Data Analysis (EDA):')
 st.write("Click on the interactive graph below to select a specific day of the week")
-st.plotly_chart(figure)
-st.plotly_chart(figure_3)
-st.plotly_chart(figure_2)
+#st.plotly_chart(figure)
+#st.plotly_chart(figure_3)
+#st.plotly_chart(figure_2)
 
 st.write("""
 Dataset courtesy of https://www.kaggle.com/datasets/jsphyg/tipping .
