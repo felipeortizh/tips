@@ -1,8 +1,8 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
-import plotly.graph_objects as go
-import matplotlib.pyplot as plt
+
+
 import streamlit as st
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
