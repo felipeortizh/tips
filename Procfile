@@ -1,1 +1,1 @@
-web: sh setup.sh && runserver 0.0.0.0:5000 && streamlit run tips.py
+web: sh setup.sh && streamlit run tips.py
