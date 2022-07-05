@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run  --server.port $PORT tips.py
+echo PORT $PORT web: sh setup.sh && streamlit run  --server.port $PORT tips.py
