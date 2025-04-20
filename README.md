@@ -96,7 +96,7 @@ Found a bug or have an idea for a cool new feature? Fork the repo and open a pul
 
 ## 📜 License
 
-This project is released under the **MIT License**.  See `LICENSE` for details (or add one if it’s missing).
+This project is released under the **MIT License**.
 
 ---
 
@@ -104,3 +104,4 @@ This project is released under the **MIT License**.  See `LICENSE` for details (
 
 **Felipe Ortiz**  •  <fortiz.huerta@gmail.com>  •  [@felipeortizh](https://github.com/felipeortizh)
 
+Made with ☕, 🐍 and ❤️.
